@@ -9,7 +9,7 @@ window.addEventListener("load", function () {
     "Germany", 
     "India", 
     "Japan", 
-    "Morrocco",
+    "Morocco",
     "New Zealand",
     "Portugal",
     "Sweden",
